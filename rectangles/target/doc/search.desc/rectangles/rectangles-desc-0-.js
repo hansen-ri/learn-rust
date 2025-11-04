@@ -1,1 +1,0 @@
-searchState.loadedDescShard("rectangles", 0, "This function calculates the area of a <code>Rectangle</code> and …\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.")
